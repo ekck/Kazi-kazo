@@ -12,4 +12,6 @@ $ export FLASK_CONFIG=development
 $ export FLASK_APP=run.py
 $ flask run
  * Serving Flask app "run"
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit\
+
+ export SQLALCHEMY_DATABASE_URI='mysql://zanahtech:immutable@zanahtech.mysql.pythonanywhere-services.com/zanahtech$kazi-kazo'
