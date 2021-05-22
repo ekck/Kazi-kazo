@@ -6,6 +6,8 @@ class Config(object):
     """
 
     DEBUG = True
+    SQLALCHEMY_TRACK_MODIFICATIONS = True
+
 
 
 class DevelopmentConfig(Config):
@@ -14,7 +16,7 @@ class DevelopmentConfig(Config):
     """
 
     SQLALCHEMY_ECHO = True
-
+   
 
 class ProductionConfig(Config):
     """
