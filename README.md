@@ -16,8 +16,7 @@ Features:
 
  hosted  at: https://zanahtech.pythonanywhere.com/ 
 
- userlogin : im.kiprono@mail.com
- pass: test
+ userlogin : register with any creds
 
  adminlogin: admin@admin.com
  pass: test
