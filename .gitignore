@@ -2,6 +2,8 @@ env
 
 __pycache__
 
-instance
+instance/
 
 migrations
+
+*.pyc
