@@ -4,6 +4,4 @@ __pycache__
 
 instance/
 
-migrations
-
 *.pyc
